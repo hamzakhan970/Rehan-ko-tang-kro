@@ -1,0 +1,6 @@
+{
+  "name": "Rehan Ko Tang Karo",
+  "description": "Playable 2D cartoon comedy game where 3 friends (Muaviya, Hamza, Huzaifa) play funny harmless pranks on Rehan across 5 interactive levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
